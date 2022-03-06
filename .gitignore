@@ -1,0 +1,10 @@
+*.env
+lib/*.js
+lib/*.d.ts
+bin/*.d.ts
+bin/*.js
+test/*.js
+test/*.d.ts
+node_modules/
+*.log
+!sample.env
